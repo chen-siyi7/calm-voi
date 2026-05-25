@@ -117,16 +117,6 @@ DGP 3 is the regime where VOI is theoretically distinctive: patients with
 $X_{i,2} < 0$ have $\beta_{1i} = -\beta_{0i}$, hence $B_i = 0$, hence VOI
 assigns them the minimum $K_i = 1$ and reallocates the freed budget to the
 $B_i > 0$ patients.
-
-## Citation
-
-```bibtex
-@article{calm_voi_2026,
-  title  = {Value-of-Information Allocation for Stochastic Surrogate Covariates in Randomized Trials},
-  author = {[Author names blinded for peer review]},
-  journal = {Submitted to Statistica Sinica},
-  year   = {2026}
-}
 ```
 
 ## License
