@@ -19,7 +19,7 @@ empirical results in the manuscript. The code implements:
 ## Quick start
 
 ```sh
-git clone https://github.com/[your-username]/calm-voi.git
+git clone https://github.com/chen-siyi7/calm-voi.git
 cd calm-voi
 Rscript scripts/run_all.R          # full B = 1000 grid, ~30 min
 Rscript scripts/run_all.R 100      # quick B = 100, ~5 min
@@ -118,7 +118,3 @@ $X_{i,2} < 0$ have $\beta_{1i} = -\beta_{0i}$, hence $B_i = 0$, hence VOI
 assigns them the minimum $K_i = 1$ and reallocates the freed budget to the
 $B_i > 0$ patients.
 ```
-
-## License
-
-MIT. See `LICENSE`.
